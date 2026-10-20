@@ -329,10 +329,9 @@ Always follow the option numbers printed by your actual running program.
 <img width="960" height="5621" alt="ss7" src="https://github.com/user-attachments/assets/4d55360e-08f4-4569-8b1d-2cf5e0357d85" />
 ---
 
----
-
 ## 🎬 Project Demo
 
+(https://github.com/user-attachments/assets/1a3a4400-e1c1-4823-a7c8-b06aed9474ac)
 
 ---
 ## 📚 Concepts Demonstrated
@@ -402,7 +401,8 @@ relevant code opens it in a writing mode such as `"w"` or `"a"`.
 
 ## 👩‍💻 Author
 
-**Dhara Padhariya**
+**DHARA**
+
 Computer Engineering Student | Python Programming
 
 **Project:** Multi-Utility Toolkit
